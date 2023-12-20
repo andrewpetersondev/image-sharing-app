@@ -1,4 +1,6 @@
+import "./header.css"
+
 const Header = () => {
-  return <div>Header</div>
+  return <div className='headerContainer'>Header Component</div>
 }
 export default Header

@@ -1,4 +1,6 @@
+import "./post.css"
+
 const Post = () => {
-  return <div>Post</div>
+  return <div className='postContainer'>Post Component</div>
 }
 export default Post

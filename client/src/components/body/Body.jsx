@@ -1,4 +1,6 @@
-const Body = () => {
-  return <div>Body</div>
+import "./body.css"
+
+const Body = ({ username }) => {
+  return <div className='bodyContainer'>Body Component</div>
 }
 export default Body

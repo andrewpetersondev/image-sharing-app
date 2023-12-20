@@ -1,4 +1,6 @@
+import "./newPost.css"
+
 const NewPost = () => {
-  return <div>NewPost</div>
+  return <div className='newPostContainer'>NewPost Component</div>
 }
 export default NewPost
